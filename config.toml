@@ -32,10 +32,6 @@ author = "Smart Baniya"
   # ✅ Optional: Set a default OG image for social sharing (replace this file)
   images = ["images/og-image.webp"]
 
-  # ✅ Existing settings
-  [params.assets]
-    disableFingerprinting = true
-
   [params.search]
     enabled = true
 
@@ -75,3 +71,4 @@ home = ["HTML", "RSS", "JSON", "robots"]
 
 [params.assets]
   customCSS = ["css/custom.css"]
+  disableFingerprinting = true

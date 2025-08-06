@@ -15,6 +15,8 @@ author = "Smart Baniya"
   defaultTheme = "auto"
   dateFormat = "January 2, 2006"
   ShowFullTextinHome = false
+  description = "Smart Baniya Tips shares simple, practical advice on online earning, tech tools, money-saving hacks, AI tips, and smart productivity tricks — especially for Indians."
+
 
   # ✅ NEW SEO settings
   canonicalURL = "https://smartbaniya.in/"

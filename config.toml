@@ -30,7 +30,7 @@ author = "Smart Baniya"
     enable = true
 
   # ✅ Optional: Set a default OG image for social sharing (replace this file)
-  images = ["images/default-og-image.jpg"]
+  images = ["images/og-image.webp"]
 
   # ✅ Existing settings
   [params.assets]
@@ -72,3 +72,6 @@ notAlternative = true
 
 [outputs]
 home = ["HTML", "RSS", "JSON", "robots"]
+
+[params.assets]
+  customCSS = ["css/custom.css"]

@@ -16,7 +16,3 @@
   <meta property="og:description" content="{{ .Site.Params.description }}">
   <meta name="twitter:description" content="{{ .Site.Params.description }}">
 {{- end -}}
-
-{{ if not .Params.cover.image }}
-  <meta property="og:image" content="{{ "images/og-image.webp" | absURL }}">
-{{ end }}

@@ -3,13 +3,10 @@ title: "How I Ran My Shop 24x7 Using Only AI – No Employees Needed"
 date: 2025-08-05
 description: "Discover how I automated my entire shop using AI tools—no staff needed! Learn the exact steps, tools, and setup I used to run a business non-stop."
 author: "Smart Baniya"
-draft: false
-cover:
-  image: "/images/how-i-run-shop-using-ai.webp"
-  alt: "AI running a retail shop"
-  caption: "Running a shop with AI"
-tags: ["AI", "Business Automation", "Online Business", "Chatbot", "Productivity Tools"]
+
 ---
+
+{{< figure src="/images/how-i-run-shop-using-ai.webp" alt="AI running a retail shop" width="720" height="407" loading="eager" fetchpriority="high" >}}
 
 ## Introduction
 

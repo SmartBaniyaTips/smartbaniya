@@ -71,4 +71,4 @@ isPlainText = true
 notAlternative = true
 
 [outputs]
-home = ["HTML", "RSS", "JSON", "RobotsTXT"]
+home = ["HTML", "RSS", "JSON", "robots"]

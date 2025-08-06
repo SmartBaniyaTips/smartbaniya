@@ -5,7 +5,7 @@ description: "Discover how I automated my entire shop using AI tools—no staff 
 author: "Smart Baniya"
 draft: false
 cover:
-  image: "/images/how-i-ran-shop-using-ai.webp"
+  image: "/images/how-i-run-shop-using-ai.webp"
   alt: "AI running a retail shop"
   caption: "Running a shop with AI"
 tags: ["AI", "Business Automation", "Online Business", "Chatbot", "Productivity Tools"]

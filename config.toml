@@ -40,6 +40,10 @@ author = "Smart Baniya"
     shouldSort = true
     threshold = 0.3
 
+  [params.assets]
+  customCSS = ["css/custom.css"]
+  disableFingerprinting = true
+
 [menu]
   [[menu.main]]
     identifier = "about"
@@ -69,6 +73,3 @@ notAlternative = true
 [outputs]
 home = ["HTML", "RSS", "JSON", "robots"]
 
-[params.assets]
-  customCSS = ["css/custom.css"]
-  disableFingerprinting = true

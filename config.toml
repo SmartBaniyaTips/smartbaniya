@@ -1,0 +1,68 @@
+baseURL = "https://smartbaniya.in/"
+languageCode = "en-us"
+title = "Smart Baniya Tips"
+theme = "PaperMod"
+googleAnalytics = "G-BTQTKCKJWV"
+
+description = "Smart Baniya Tips shares simple, practical advice on online earning, tech tools, money-saving hacks, AI tips, and smart productivity tricks — especially for Indians."
+author = "Smart Baniya"
+
+[params]
+  ShowReadingTime = false
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  defaultTheme = "auto"
+  dateFormat = "January 2, 2006"
+  ShowFullTextinHome = false
+
+  # ✅ NEW SEO settings
+  canonicalURL = "https://smartbaniya.in/"
+  keywords = ["Online Earning", "AI Tools", "Money Saving", "Productivity", "Smart Tips India"]
+  generateSitemap = true
+
+  # ✅ Social Sharing Cards
+  [params.opengraph]
+    enable = true
+
+  [params.twitter_cards]
+    enable = true
+
+  # ✅ Optional: Set a default OG image for social sharing (replace this file)
+  images = ["images/default-og-image.jpg"]
+
+  # ✅ Existing settings
+  [params.assets]
+    disableFingerprinting = true
+
+  [params.search]
+    enabled = true
+
+  [params.search.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    threshold = 0.3
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 2
+
+    [[menu.main]]
+    identifier = "privacy"
+    name = "Privacy Policy"
+    url = "/privacy-policy/"
+    weight = 3
+
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]

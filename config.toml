@@ -64,5 +64,11 @@ author = "Smart Baniya"
     weight = 3
 
 
+[outputFormats.RobotsTXT]
+mediaType = "text/plain"
+baseName = "robots"
+isPlainText = true
+notAlternative = true
+
 [outputs]
 home = ["HTML", "RSS", "JSON", "RobotsTXT"]

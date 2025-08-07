@@ -6,10 +6,6 @@ draft: false
 author: "Smart Baniya"
 tags: ["AI tools", "business", "free tools", "India"]
 categories: ["Smart Tools"]
-ShowToc: true
-ShowBreadCrumbs: true
-ShowReadingTime: true
-ShowPostNavLinks: true
 cover:
   image: "/images/top-5-ai-tools-thumbnail.webp"
   alt: "AI Tools for every business Owner in India Should Know"

@@ -6,10 +6,6 @@ draft: false
 author: "Smart Baniya"
 tags: ["AI", "WhatsApp", "Chatbot", "Business Tools", "Customer Service"]
 categories: ["Smart Tools"]
-ShowToc: true
-ShowBreadCrumbs: true
-ShowReadingTime: true
-ShowPostNavLinks: true
 cover:
   image: "/images/how-to-add-ai-in-whatsapp-business.webp"
   alt: "WhatsApp AI Chatbot Illustration"

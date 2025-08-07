@@ -5,6 +5,7 @@ description: "जानिए कैसे आप आर्टिफिशिय
 draft: false
 author: "शाक्षत वखारिया"
 tags: ["ai-tools", "automation", "business", "smart-tools"]
+translationKey: "ai-run-shop-24x7"
 cover:
   image: "/images/how-i-run-shop-using-ai.webp"
   alt: "AI से दुकान 24x7 चलाना"

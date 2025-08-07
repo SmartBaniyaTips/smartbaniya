@@ -4,6 +4,8 @@ date: 2025-08-05
 description: "Discover how I automated my entire shop using AI tools—no staff needed! Learn the exact steps, tools, and setup I used to run a business non-stop."
 author: "Smart Baniya"
 draft: false
+translationKey: "ai-run-shop-24x7"
+
 cover:
   image: "/images/how-i-run-shop-using-ai.webp"
   alt: "AI running a retail shop"

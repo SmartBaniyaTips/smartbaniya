@@ -5,6 +5,7 @@ description: "घर बैठे ऑनलाइन पैसे कमान�
 draft: false
 author: "शाक्षत वखारिया"
 tags: ["online-earning", "work-from-home", "side-income", "money"]
+translationKey: "earn-money-guide"
 cover:
   image: "/images/how-to-earn-online.webp"
   alt: "ऑनलाइन पैसे कमाने के तरीके"

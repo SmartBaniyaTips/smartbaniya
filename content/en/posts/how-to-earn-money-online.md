@@ -6,7 +6,7 @@ categories: ["earning"]
 description: "A beginner-friendly guide to earning money online from home in India with zero investment."
 author: "Smart Baniya"
 draft: false
-
+translationKey: "earn-money-guide"
 cover:
   image: "/images/how-to-earn-online.webp"
   alt: "How to Start Earning Money Online in India"

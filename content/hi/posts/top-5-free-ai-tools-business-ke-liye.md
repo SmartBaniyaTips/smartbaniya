@@ -5,6 +5,7 @@ description: "भारत के बिज़नेस मालिकों �
 draft: false
 author: "शाक्षत वखारिया"
 tags: ["ai-tools", "business", "productivity", "smart-tools"]
+translationKey: "top-5-ai-tools-business"
 cover:
   image: "/images/top-5-ai-tools-thumbnail.webp"
   alt: "फ्री AI टूल्स हर बिज़नेस के लिए"

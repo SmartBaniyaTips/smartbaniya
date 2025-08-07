@@ -5,6 +5,7 @@ description: "इस आसान गाइड में जानें कि 
 tags: ["AI Tools", "Business", "WhatsApp", "Chatbot", "Hindi"]
 draft: false
 author: "शाक्षत वखारिया"
+translationKey: "whatsapp-business-ai"
 cover:
   image: "/images/how-to-add-ai-in-whatsapp-business.webp"
   alt: "WhatsApp बिज़नेस में AI कैसे जोड़ें"

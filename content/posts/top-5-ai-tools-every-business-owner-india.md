@@ -1,6 +1,6 @@
 ---
 title: "Top 5 Free AI Tools Every Business Owner in India Should Know"
-date: 2025-08-02T17:00:00+05:30
+date: 2025-08-03
 description: "Discover the top 5 free AI tools that every Indian entrepreneur should use to save time, grow their business, and stay ahead in 2025."
 draft: false
 author: "Smart Baniya"

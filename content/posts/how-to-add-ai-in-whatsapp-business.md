@@ -1,6 +1,6 @@
 ---
 title: "How to Add AI in WhatsApp Business (AI Chatbot)"
-date: 2025-08-04T10:00:00+05:30
+date: 2025-08-04
 description: "Learn how to integrate an AI chatbot into your WhatsApp Business account to reply automatically, save time, and grow your business."
 draft: false
 author: "Smart Baniya"

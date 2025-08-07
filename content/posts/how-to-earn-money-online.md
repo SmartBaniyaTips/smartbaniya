@@ -1,6 +1,6 @@
 ---
 title: "How to Start Earning Money Online in India (2025 Guide)"
-date: 2025-08-02T10:00:00+05:30
+date: 2025-08-02
 tags: ["online earning", "money", "smartbaniya"]
 categories: ["earning"]
 description: "A beginner-friendly guide to earning money online from home in India with zero investment."

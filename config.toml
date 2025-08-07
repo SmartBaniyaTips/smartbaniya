@@ -34,7 +34,8 @@ defaultContentLanguageInSubdir = false
   ShowFullTextinHome = false
   description = "Smart Baniya Tips shares simple, practical advice on online earning, tech tools, money-saving hacks, AI tips, and smart productivity tricks — especially for Indians."
   ShowLanguageSwitcher = true
-
+  showSearch = true
+  
   # ✅ NEW SEO settings
   canonicalURL = "https://smartbaniya.in/"
   keywords = ["Online Earning", "AI Tools", "Money Saving", "Productivity", "Smart Tips India"]

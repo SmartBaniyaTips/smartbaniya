@@ -22,3 +22,5 @@
 
 {{ $style := resources.Get "css/extra.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+
+{{ partial "language-switcher.html" . }}

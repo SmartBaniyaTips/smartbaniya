@@ -1,5 +1,5 @@
 ---
-title: "How to Get More Customers Using AI – A Guide for WhatsApp, Facebook, Google & More"
+title: "How to Get More Customers in Business Using AI"
 date: 2025-08-07
 description: "Learn how small business owners in India can use free and simple AI tools to attract more customers using WhatsApp, Facebook, Google, Email, and more – without hiring staff."
 draft: false

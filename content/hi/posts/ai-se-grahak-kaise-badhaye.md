@@ -1,5 +1,5 @@
 ---
-title: "AI से ग्राहक कैसे बढ़ाए – WhatsApp, Facebook और Google के लिए Guide"
+title: "AI से ग्राहक कैसे बढ़ाए"
 date: 2025-08-07
 description: "WhatsApp, Facebook, Google और दूसरे आसान AI टूल्स की मदद से अपने बिज़नेस में ग्राहक बढ़ाइए – वो भी बिना स्टाफ रखे। ये गाइड खास तौर पर भारत के छोटे व्यापारियों के लिए है।"
 draft: false

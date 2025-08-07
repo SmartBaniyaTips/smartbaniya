@@ -2,7 +2,7 @@ baseURL = "https://smartbaniya.in/"
 title = "Smart Baniya Tips"
 theme = "PaperMod"
 googleAnalytics = "G-BTQTKCKJWV"
-author = "Smart Baniya"
+author = "💡Smart Baniya"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false

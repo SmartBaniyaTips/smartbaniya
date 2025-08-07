@@ -1,10 +1,27 @@
 baseURL = "https://smartbaniya.in/"
-languageCode = "en-us"
 title = "💡Smart Baniya Tips"
 theme = "PaperMod"
 googleAnalytics = "G-BTQTKCKJWV"
-
 author = "Smart Baniya"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[languages]
+
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-us"
+    weight = 1
+    title = "Smart Baniya Tips"
+    contentDir = "content/en"
+
+  [languages.hi]
+    languageName = "हिन्दी"
+    languageCode = "hi-in"
+    weight = 2
+    title = "स्मार्ट बनिया टिप्स"
+    contentDir = "content/hi"
 
 [params]
   ShowReadingTime = false
@@ -16,7 +33,6 @@ author = "Smart Baniya"
   dateFormat = "January 2, 2006"
   ShowFullTextinHome = false
   description = "Smart Baniya Tips shares simple, practical advice on online earning, tech tools, money-saving hacks, AI tips, and smart productivity tricks — especially for Indians."
-
 
   # ✅ NEW SEO settings
   canonicalURL = "https://smartbaniya.in/"
@@ -30,16 +46,16 @@ author = "Smart Baniya"
   [params.twitter_cards]
     enable = true
 
-  # ✅ Optional: Set a default OG image for social sharing (replace this file)
+  # ✅ Optional: Set a default OG image for social sharing
   images = ["images/og-image.webp"]
 
   [params.search]
     enabled = true
 
-  [params.search.fuseOpts]
-    isCaseSensitive = false
-    shouldSort = true
-    threshold = 0.3
+    [params.search.fuseOpts]
+      isCaseSensitive = false
+      shouldSort = true
+      threshold = 0.3
 
   [params.assets]
     css = ["css/extra.css"]
@@ -63,7 +79,6 @@ author = "Smart Baniya"
     url = "/privacy-policy/"
     weight = 3
 
-
 [outputFormats.RobotsTXT]
 mediaType = "text/plain"
 baseName = "robots"
@@ -72,4 +87,3 @@ notAlternative = true
 
 [outputs]
 home = ["HTML", "RSS", "JSON", "robots"]
-

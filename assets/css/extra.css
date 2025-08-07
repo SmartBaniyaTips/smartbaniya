@@ -1,0 +1,122 @@
+/* ========== BASE: Hide All Anchor Links (#) by Default ========== */
+a.header-anchor,
+a.anchor {
+  visibility: hidden;
+  text-decoration: none;
+  margin-left: 0.5rem;
+  font-weight: normal;
+  display: none;
+}
+
+/* ========== DESKTOP: Show # on Heading Hover ========== */
+@media screen and (min-width: 769px) {
+  h1:hover > a.header-anchor,
+  h2:hover > a.header-anchor,
+  h3:hover > a.header-anchor,
+  h4:hover > a.header-anchor,
+  h5:hover > a.header-anchor,
+  h6:hover > a.header-anchor,
+  h1:hover > a.anchor,
+  h2:hover > a.anchor,
+  h3:hover > a.anchor,
+  h4:hover > a.anchor,
+  h5:hover > a.anchor,
+  h6:hover > a.anchor {
+    visibility: visible;
+    display: inline;
+  }
+}
+
+/* ========== MOBILE: Hide # Anchors Completely ========== */
+@media screen and (max-width: 768px) {
+  h1 > a.header-anchor,
+  h2 > a.header-anchor,
+  h3 > a.header-anchor,
+  h4 > a.header-anchor,
+  h5 > a.header-anchor,
+  h6 > a.header-anchor,
+  h1 > a.anchor,
+  h2 > a.anchor,
+  h3 > a.anchor,
+  h4 > a.anchor,
+  h5 > a.anchor,
+  h6 > a.anchor,
+  a.anchor,
+  a.header-anchor {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+    position: absolute !important;
+    width: 0 !important;
+    height: 0 !important;
+    overflow: hidden !important;
+    text-decoration: none !important;
+    border: none !important;
+  }
+
+  /* Mobile Layout Improvements */
+  main,
+  .post-content,
+  .content,
+  .single {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 0 1rem !important;
+    margin: 0 auto !important;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-size: 16px !important;
+    line-height: 1.6;
+  }
+
+  h1 {
+    font-size: 24px !important;
+  }
+
+  h2 {
+    font-size: 20px !important;
+  }
+
+  h3 {
+    font-size: 18px !important;
+  }
+
+  .post-content img {
+    width: 100% !important;
+    height: auto !important;
+  }
+
+  .post-content a,
+  .post-content button {
+    font-size: 1rem !important;
+    padding: 0.75rem 1rem;
+    display: inline-block;
+  }
+
+  /* Hide underline/box-shadow from TOC links on mobile */
+  .toc a {
+    text-decoration: none !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+}
+
+/* ========== REMOVE #:before FROM HEADINGS ========== */
+h1::before,
+h2::before,
+h3::before,
+h4::before,
+h5::before,
+h6::before {
+  content: none !important;
+  display: none !important;
+}
+
+/* ========== TOC: Remove Underline on All Devices ========== */
+.toc a {
+  box-shadow: none !important;
+  text-decoration: none !important;
+}

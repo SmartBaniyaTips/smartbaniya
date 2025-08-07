@@ -42,8 +42,7 @@ author = "Smart Baniya"
     threshold = 0.3
 
   [params.assets]
-  customCSS = ["css/custom.css"]
-  disableFingerprinting = true
+    css = ["css/extra.css"]
 
 [menu]
   [[menu.main]]

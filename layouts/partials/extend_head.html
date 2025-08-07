@@ -19,3 +19,6 @@
   <meta property="og:description" content="{{ .Site.Params.description }}">
   <meta name="twitter:description" content="{{ .Site.Params.description }}">
 {{- end -}}
+
+{{ $style := resources.Get "css/extra.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">

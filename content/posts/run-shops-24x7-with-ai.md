@@ -31,7 +31,7 @@ That decision changed everything.
 
 ---
 
-## Tool #1: WhatsApp AI Chatbot (using WATI or Zoko)
+## Tool 1: WhatsApp AI Chatbot (using WATI or Zoko)
 
 **What it does:** Replies to customers on WhatsApp automatically with prices, product info, store timings, etc.
 
@@ -54,7 +54,7 @@ This alone **saved me 2–3 hours daily.**
 
 ---
 
-## Tool #2: AI Website with Product Catalog (Durable or Strikingly)
+## Tool 2: AI Website with Product Catalog (Durable or Strikingly)
 
 **What it does:** Shows your products online 24x7 so customers can browse and order anytime.
 
@@ -72,7 +72,7 @@ No coding needed. Looked professional!
 
 ---
 
-## Tool #3: Google Forms + Google Sheets (for Orders)
+## Tool 3: Google Forms + Google Sheets (for Orders)
 
 **What it does:** Let customers place orders using a simple form. The data comes directly to me.
 
@@ -95,7 +95,7 @@ Now I take orders even when I’m offline.
 
 ---
 
-## Tool #4: AI Email Responder (using Flowrite)
+## Tool 4: AI Email Responder (using Flowrite)
 
 **What it does:** Writes smart email replies using AI.
 
@@ -113,7 +113,7 @@ Even if you don’t know English well, it helps write professional replies.
 
 ---
 
-## Tool #5: Voice Assistant for Phone Calls (using OpenPhone or Aircall)
+## Tool 5: Voice Assistant for Phone Calls (using OpenPhone or Aircall)
 
 **What it does:** Answers incoming calls with AI voice, gives product info, takes voicemail.
 

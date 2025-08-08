@@ -1,6 +1,6 @@
 ---
 title: "How to attract More Customers in Business Using AI"
-date: 2025-08-07
+date: 2025-08-06
 description: "Learn how small business owners in India can use free and simple AI tools to attract more customers using WhatsApp, Facebook, Google, Email, and more – without hiring staff."
 draft: false
 author: "Shakshat Vakharia"

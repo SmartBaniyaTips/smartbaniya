@@ -4,7 +4,7 @@ date: 2025-08-02
 tags: ["online earning", "money", "smartbaniya"]
 categories: ["earning"]
 description: "A beginner-friendly guide to earning money online from home in India with zero investment."
-author: "Smart Baniya"
+author: "Shakshat Vakharia"
 draft: false
 translationKey: "earn-money-guide"
 cover:

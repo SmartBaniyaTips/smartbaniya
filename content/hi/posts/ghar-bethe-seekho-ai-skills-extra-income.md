@@ -1,6 +1,6 @@
 ---
 title: "घर बैठे सीखो AI Skills और बनाओ Extra Income"
-date: 2025-08-9
+date: 2025-08-09
 description: "जानिए कैसे AI skills सीखकर आप घर बैठे extra income कमा सकते हैं — आसान तरीके, step-by-step guide, useful tools और success stories के साथ।"
 draft: false
 author: "शाक्षत वखारिया"

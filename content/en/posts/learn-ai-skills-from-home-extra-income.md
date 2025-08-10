@@ -1,6 +1,6 @@
 ---
 title: "Learn AI Skills from Home & Start Making Extra Income"
-date: 2025-08-9
+date: 2025-08-09
 description: "Discover how you can learn AI skills from home and turn them into extra income — step-by-step guide, useful tools, and real success stories."
 draft: false
 author: "Shakshat Vakharia"
